@@ -1,0 +1,15 @@
+.primary-constainer {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.primary-constainer h2 {
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.primary-constainer p {
+    color: #737373;
+
+}
